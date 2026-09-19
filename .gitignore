@@ -1,0 +1,32 @@
+# Banco de dados gerado
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Cache do scraper
+cache_tbca/
+cookies.txt
+items.jsonl
+liststate.json
+metodo.state.json
+listing.json
+
+# Logs
+*.log
+_log.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Ambiente
+.env
+env.php
